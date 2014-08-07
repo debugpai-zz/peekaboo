@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/database-interface/database-interface.iml" filepath="$PROJECT_DIR$/database-interface/database-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peekaboo.iml" filepath="$PROJECT_DIR$/peekaboo.iml" />
+    </modules>
+  </component>
+</project>
+

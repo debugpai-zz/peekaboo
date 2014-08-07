@@ -11,5 +11,11 @@
 
     <artifactId>database-interface</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.github.livesense</groupId>
+            <artifactId>org.liveSense.jdbc.mysql</artifactId>
+            <version>1.0.5</version>
+        </dependency>
+    </dependencies>
 </project>
